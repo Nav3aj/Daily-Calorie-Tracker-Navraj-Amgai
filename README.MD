@@ -1,6 +1,6 @@
 # Daily Calorie Tracker
 
-**Author:** NavraJ Amgai  
+**Author:** Navraj Amgai  
 **Date:** 2025-11-13  
 
 ## Description
@@ -27,3 +27,4 @@ Python Software Foundation. (2023). *Python 3 Documentation.* https://docs.pytho
 This submission is my original work created for the **Programming for Problem Solving Using Python (ETCCPP102)** course under **Ms. Neha Kaushik**.  
 
 I have not copied code from others; I referred only to official Python documentation.
+
