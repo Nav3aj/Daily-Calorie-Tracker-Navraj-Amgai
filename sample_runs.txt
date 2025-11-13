@@ -22,10 +22,10 @@ You are within your limit ✅
 
 Save report to file? (y/n): y
 Saved as calorie_report.txt
-By NavraJ Amgai
+By Navraj Amgai
 
 Thank you — program finished.
-By NavraJ Amgai
+By Navraj Amgai
 
 ------------------- Sample Run 2 By Navraj Amgai -------------------
 
@@ -54,10 +54,10 @@ You are within your limit ✅
 
 Save report to file? (y/n): y
 Saved as calorie_report.txt
-By NavraJ Amgai
+By Navraj Amgai
 
 Thank you — program finished.
-By NavraJ Amgai
+By Navraj Amgai
 
 ------------------- Sample Run 3 By Navraj Amgai -------------------
 
@@ -80,7 +80,8 @@ You exceeded your limit ⚠️
 
 Save report to file? (y/n): y
 Saved as calorie_report.txt
-By NavraJ Amgai
+By Navraj Amgai
 
 Thank you — program finished.
-By NavraJ Amgai
+
+By Navraj Amgai
