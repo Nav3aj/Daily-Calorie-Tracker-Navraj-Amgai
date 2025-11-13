@@ -1,6 +1,6 @@
 """
 Project: Daily Calorie Tracker
-Author: NavraJ Amgai
+Author: Navraj Amgai
 Date: 2025-11-13
 Description:
 A minimal, easy-to-explain program that asks for meals and calories,
@@ -67,7 +67,7 @@ def main():
     # 5) Save option.
     save = input("\nSave report to file? (y/n): ").lower()
     if save == 'y':
-        signature = "By NavraJ Amgai"
+        signature = "By Navraj Amgai"
         with open("calorie_report.txt", "a") as f:
             f.write("----- Daily Report -----\n")
             for name, cal in zip(meals, calories):
@@ -81,7 +81,8 @@ def main():
         print("Report not saved.")
 
     print("\nThank you — program finished.")
-    print("By NavraJ Amgai")
+    print("By Navraj Amgai")
 
 if __name__ == "__main__":
+
     main()
