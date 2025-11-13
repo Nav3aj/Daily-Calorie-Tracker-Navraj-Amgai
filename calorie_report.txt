@@ -1,0 +1,24 @@
+----- Daily Report -----
+breakfast        350.0 cal
+lunch            600.0 cal
+dinner           700.0 cal
+Total: 1650.0 | Avg: 550.0 | Limit: 2000.0
+By NavraJ Amgai
+------------------------
+
+----- Daily Report -----
+Burger           400.0 cal
+Noodles          300.0 cal
+Momos            200.0 cal
+Samosa           100.0 cal
+Total: 1000.0 | Avg: 250.0 | Limit: 1100.0
+By NavraJ Amgai
+------------------------
+
+----- Daily Report -----
+Malai Kopta      600.0 cal
+Butter chicken   700.0 cal
+Total: 1300.0 | Avg: 650.0 | Limit: 1100.0
+By NavraJ Amgai
+------------------------
+
