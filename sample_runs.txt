@@ -1,0 +1,86 @@
+------------------- Sample Run 1 By Navraj Amgai -------------------
+
+=== DAILY CALORIE TRACKER ===
+How many meals did you have today? 3
+Meal 1 name: breakfast
+Calories for breakfast: 350
+Meal 2 name: lunch
+Calories for lunch: 600
+Meal 3 name: dinner
+Calories for dinner: 700
+
+Enter your daily calorie limit: 2000
+
+----- SUMMARY -----
+breakfast        350.0 cal
+lunch            600.0 cal
+dinner           700.0 cal
+--------------------
+Total Calories : 1650.0
+Average Calories : 550.0
+You are within your limit ✅
+
+Save report to file? (y/n): y
+Saved as calorie_report.txt
+By NavraJ Amgai
+
+Thank you — program finished.
+By NavraJ Amgai
+
+------------------- Sample Run 2 By Navraj Amgai -------------------
+
+=== DAILY CALORIE TRACKER ===
+How many meals did you have today? 4
+Meal 1 name:  Burger
+Calories for Burger: 400
+Meal 2 name:  Noodles 
+Calories for Noodles: 300
+Meal 3 name: Momos
+Calories for Momos: 200
+Meal 4 name: Samosa
+Calories for Samosa: 100
+
+Enter your daily calorie limit: 1100
+
+----- SUMMARY -----
+Burger           400.0 cal
+Noodles          300.0 cal
+Momos            200.0 cal
+Samosa           100.0 cal
+--------------------
+Total Calories : 1000.0
+Average Calories : 250.0
+You are within your limit ✅
+
+Save report to file? (y/n): y
+Saved as calorie_report.txt
+By NavraJ Amgai
+
+Thank you — program finished.
+By NavraJ Amgai
+
+------------------- Sample Run 3 By Navraj Amgai -------------------
+
+=== DAILY CALORIE TRACKER ===
+How many meals did you have today? 2
+Meal 1 name: Malai Kopta
+Calories for Malai Kopta: 600
+Meal 2 name: Butter chicken
+Calories for Butter chicken: 700
+
+Enter your daily calorie limit: 1100
+
+----- SUMMARY -----
+Malai Kopta      600.0 cal
+Butter chicken   700.0 cal
+--------------------
+Total Calories : 1300.0
+Average Calories : 650.0
+You exceeded your limit ⚠️
+
+Save report to file? (y/n): y
+Saved as calorie_report.txt
+By NavraJ Amgai
+
+Thank you — program finished.
+By NavraJ Amgai
